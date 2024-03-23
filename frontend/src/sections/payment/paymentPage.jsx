@@ -11,10 +11,10 @@ export default function PaymentPage({ formik }){
     const location = useLocation();
     const formDataFromDetailProgram = location.state || 0;
     const images = [
-        {url:'/assets/images/payments/BCA.png',name:'BCA',type:'Bank',noRek:'0000000'},
-        {url:'/assets/images/payments/Mandiri.png',name:'Mandiri',type:'Bank',noRek:'0000000'},
-        {url:'/assets/images/payments/Dana.png',name:'Dana',type:'eWallet',noRek:'0000000'},
-        {url:'/assets/images/payments/GoPay.png',name:'GoPay',type:'eWallet',noRek:'0000000'},
+        {url:'/assets/images/payments/BSI.png',name:'BCA',type:'Bank',noRek:'7229981719',an:"PANITIA PENGEMBANGAN MASJID AL HUDA"},
+        // {url:'/assets/images/payments/Mandiri.png',name:'Mandiri',type:'Bank',noRek:'0000000'},
+        // {url:'/assets/images/payments/Dana.png',name:'Dana',type:'eWallet',noRek:'0000000'},
+        // {url:'/assets/images/payments/GoPay.png',name:'GoPay',type:'eWallet',noRek:'0000000'},
       ];
     return (
         <>

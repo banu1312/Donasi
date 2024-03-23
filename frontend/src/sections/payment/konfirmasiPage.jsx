@@ -86,7 +86,7 @@ export default function KonfirmasiPage({formik,data}) {
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>3</p>
-                <p>Masukkan noRek <b>0000000000</b> Nominal yang akan ditransfer</p>
+                <p>Masukkan noRek <b>7229981719</b> an <b>PANITIA PENGEMBANGAN MASJID AL HUDA</b> Nominal yang akan ditransfer</p>
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>4</p>
@@ -119,7 +119,7 @@ export default function KonfirmasiPage({formik,data}) {
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>4</p>
-                <p>Masukkan noRek <b>0000000000</b> dan Nominal yang akan ditransfer</p>
+                <p>Masukkan noRek <b>7229981719</b> an <b>PANITIA PENGEMBANGAN MASJID AL HUDA</b> Nominal yang akan ditransfer</p>
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>5</p>
@@ -170,7 +170,7 @@ export default function KonfirmasiPage({formik,data}) {
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>5</p>
-                <p>Masukkan noRek <b>0000000000</b> dan Nominal yang akan ditransfer</p>
+                <p>Masukkan noRek <b>7229981719</b> an <b>PANITIA PENGEMBANGAN MASJID AL HUDA</b> Nominal yang akan ditransfer</p>
               </li>
               <li className='flex gap-2 items-center mb-2'>
                 <p className='py-1 px-3 rounded-full bg-[#605d5d] text-[#fff]'>7</p>
